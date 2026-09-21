@@ -1,4 +1,3 @@
-```markdown
 # Taller de árboles, recorridos y complejidad computacional
 ## Estructuras de datos para el análisis sintáctico descendente
 
